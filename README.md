@@ -16,7 +16,7 @@ I am passionate about creating real-life impactful solutions related to AI and M
 - 📫 How to reach me:
   <ul>
   <li><a href ="https://www.linkedin.com/in/krishanu-kashyap-891527190">Linkedin</a> </li>
-  <li><a href = "mailto :krishanuk93@gmail.com">E-mail</a></li>
+  <li><a href ="mailto:krishanuk93@gmail.com">Email</a></li>
   </ul>
 
 - 😄 Pronouns: He/Him
