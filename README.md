@@ -21,4 +21,3 @@ I am passionate about creating real-life impactful solutions related to AI and M
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a good sense of humour :stuck_out_tongue_winking_eye:. 
--->
