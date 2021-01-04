@@ -12,7 +12,7 @@ I am passionate about creating real-life impactful solutions related to AI and M
 - 🔭 I’m currently working on Machine Learning and Deep Learning 
 - 👯 I’m looking to collaborate on awesome projects related to Deep Learning
 - 💬 I am open to discussions on AI, ML, Deep Learning and some good instrumental music .
-- 🌱 I am currently reading and learning more Advanced Computer Vision Concepts and Competitive Programming 
+- 🌱 I am currently reading and learning more about Advanced Computer Vision Concepts and Competitive Programming 
 - 📫 How to reach me:
   <ul>
   <li><a href ="https://www.linkedin.com/in/krishanu-kashyap-891527190">Linkedin</a> </li>
